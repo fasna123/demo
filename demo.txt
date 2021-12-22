@@ -3,3 +3,5 @@ welcome all
 this is first file
 
 not sure commands
+
+done all changes
